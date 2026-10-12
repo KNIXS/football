@@ -1,2 +1,4 @@
 # football
-A modular Python project that searches for and analyzes mortality and execution data around the world based on a certain year, country, and disease using dictionary modules.
+> An interactive terminal application and data analysis pipeline for football match statistics, built with Pandas, NumPy, Matplotlib, and Seaborn to analyze goal distributions, team performance, and match outcomes.
+> 
+>
